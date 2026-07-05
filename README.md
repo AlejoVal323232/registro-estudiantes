@@ -14,3 +14,9 @@ Este es un programa desarrollado en C++ que permite registrar a un grupo de estu
 * **Estructuras de control:** Implementación de ciclos para recorrer y procesar la información de forma eficiente.
 * **Menús interactivos:** Uso de ciclos do-while y switch-case para permitir al usuario navegar por las opciones del programa.
 * **Lógica condicional:** Aplicación de bloques if-else para evaluar el rendimiento académico de cada alumno.
+
+## Cómo ejecutar este programa
+
+* Asegúrate de tener instalado un compilador de C++ como **Dev-C++**.
+* Abre el archivo `registro_estudiantes.cpp` en tu editor.
+* Compila y ejecuta el código.
